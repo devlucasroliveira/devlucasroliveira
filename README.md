@@ -1,7 +1,8 @@
 ### Olá! Eu sou o Lucas Oliveira
 
 - 🔭 Atualmente trabalho com front-end, Design Digital
-- 🌱 Estudando Sistemas para Internet
+- 👨‍🎓 Sistemas para Internet
+- 🌱 Estudando FullStack
 - 📫 Contrate-me no email: lucasroliveira.contato@gmail.com
 - 😄 Pronouns: ele/dele
 
